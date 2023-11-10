@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/node": "^20.9.0",
+    "bcrypt": "^5.1.1"
+  }
+}
